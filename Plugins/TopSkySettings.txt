@@ -92,7 +92,7 @@ System_FPL_F18_Formation_Text=FOR/
 System_MagModel_Year=2025
 System_MetarSourceVATSIM=0
 System_Trf_Release=0
-System_UseAUP=1
+System_UseAUP=0
 
 Track_PredictionLine=1
 
