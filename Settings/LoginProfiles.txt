@@ -1,0 +1,86 @@
+PROFILE
+PROFILE:EETT_CTR:300:6
+ATIS2:Tallinn Control
+ATIS3:CPDLC EETT above FL 95
+ATIS4:EETN initial climb to 4000 ft or by ATC
+PROFILE:EETT_W_CTR:300:6
+ATIS2:Tallinn Control
+ATIS3:CPDLC EETT above FL 95
+ATIS4:EETN initial climb to 4000 ft or by ATC
+PROFILE:EETT_E_CTR:300:6
+ATIS2:Tallinn Control
+ATIS3:CPDLC EEEE above FL 95
+ATIS4:EETN initial climb to 4000 ft or by ATC
+PROFILE:EETT_N_CTR:300:6
+ATIS2:Tallinn Control
+ATIS3:CPDLC EENN above FL 95
+ATIS4:EETN initial climb to 4000 ft or by ATC
+PROFILE:EETT_S_CTR:300:6
+ATIS2:Tallinn Control
+ATIS3:CPDLC EESS above FL 95
+ATIS4:EETN initial climb to 4000 ft or by ATC
+PROFILE:EETT_I_CTR:300:6
+ATIS2:Tallinn Control
+ATIS3:FIS within Tallinn FIR below FL 95
+ATIS4:AFIS within FIZ/RMZ when aerodrome(s) outside HO
+PROFILE:EETT_H_APP:150:5
+ATIS2:Tallinn Control
+ATIS3:Advice if unable RNAV1 STAR
+ATIS4:INTOR holding inbound track 013, right turn
+PROFILE:EETT_Y_FMP:300:0
+ATIS2:ATCC Tallinn
+ATIS3:Operational Supervisor
+ATIS4:This position does not provide any ATC service
+PROFILE:EETT_Z_FMP:300:0
+ATIS2:ATCC Tallinn
+ATIS3:Flow Management Position
+ATIS4:This position does not provide any ATC service
+PROFILE:EETN_APP:150:5
+ATIS2:Tallinn Radar
+ATIS3:Initial climb to 4000 ft or by ATC
+ATIS4:Mandatory contact when airborne from EETN
+PROFILE:EETN_D_APP:150:5
+ATIS2:Tallinn Radar
+ATIS3:Avoid frequency congestion
+ATIS4:State only TALLINN RADAR + callsign
+PROFILE:EETN_TWR:50:4
+ATIS2:Tallinn Tower
+ATIS3:Initial climb to 4000 ft or by ATC
+ATIS4:When airborne contact 127.905 if APP online
+PROFILE:EETN_C_RMP:5:3
+ATIS2:Tallinn Handling
+ATIS3:
+ATIS4:
+PROFILE:EETN_D_RMP:5:3
+ATIS2:De-icing
+ATIS3:Tallinn Airport Ground Handling
+ATIS4:De-icing request via handling or TWR frequency
+PROFILE:EEEI_TWR:50:4
+ATIS2:Amari Tower
+ATIS3:Initial climb to 3000 ft or by ATC
+ATIS4:Departure frequency with route clearance
+PROFILE:EETU_I_TWR:50:5
+ATIS2:Tartu Information
+ATIS3:AFIS within Tartu FIZ/RMZ
+ATIS4:Radar-based flight information service
+PROFILE:EEKE_I_TWR:50:4
+ATIS2:Kuressaare Information
+ATIS3:AFIS within Kuressaare FIZ/RMZ
+ATIS4:
+PROFILE:EEKA_I_TWR:50:4
+ATIS2:Kardla Information
+ATIS3:AFIS within Kardla FIZ/RMZ
+ATIS4:
+PROFILE:EEPU_I_TWR:50:4
+ATIS2:Parnu Information
+ATIS3:AFIS within Parnu FIZ/RMZ
+ATIS4:
+PROFILE:<initials>_OBS:300:0
+ATIS2:$myrealname
+ATIS3:
+ATIS4:
+PROFILE:ACCESTN<code number>:300:0
+ATIS2:$myrealname
+ATIS3:VACC Estonia Staff
+ATIS4:
+END

@@ -1,0 +1,16 @@
+EETT FIR
+EETT_CTR Tallinn Control
+EETT_W_CTR Tallinn Control (W)
+EETT_E_CTR Tallinn Control (E1+E2)
+EETT_N_CTR Tallinn Control (W21)
+EETT_S_CTR Tallinn Control (E2)
+EETT_I_CTR Tallinn Control (FIS)
+EETT_H_APP Tallinn Control (INTOR)
+EETN_APP Tallinn Radar
+EETN_D_APP Tallinn Radar (DIR)
+EETN_TWR Tallinn Tower
+EEEI_TWR Ämari Tower
+EEKA_I_TWR Kärdla Information
+EEKE_I_TWR Kuressaare Information
+EEPU_I_TWR Pärnu Information
+EETU_I_TWR Tartu Information
