@@ -62,7 +62,7 @@ Label_DAPs=0
 Label_DAPs_Prefix=*
 Label_Extended_MaxChars=55
 Label_Field18_Flag_Items=STS/
-Label_GS_Prefix=¥
+Label_GS_Prefix=â€¢
 
 Label_CRC_Default=1
 Label_NATYP_Default=1
