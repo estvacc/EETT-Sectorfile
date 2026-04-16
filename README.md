@@ -16,4 +16,4 @@ At the moment, contributions are restricted to authorized personnel.
 Bug reports, feature suggestions, discussions and documentation are handled internally.
 
 ## Sectorfile Releases
-Full sector file packags are available from [AeroNav GNG](https://files.aero-nav.com/EETT).
+Full sector file packages are available from [AeroNav GNG](https://files.aero-nav.com/EETT).
