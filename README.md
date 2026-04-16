@@ -1,5 +1,6 @@
 # FINEST EETT Packages
-Tallinn FIR plugin configuration and settings for the GNG package.
+Tallinn FIR plugin configuration and settings for the GNG package.  
+
 Developed and used by VACC Estonia ATCO and visiting controllers on VATSIM.
 
 This repository contains non-automatically generated files from our sector file provider AeroNav GNG, including:
