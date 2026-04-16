@@ -23,6 +23,8 @@ List_Outbound_SID=1
 List_Outbound_ExpiryTime=300
 List_Outbound_SID_MaxChars=5
 
+Maps_URL=https://dataset.vatsim.ee/GRpluginMaps.txt
+
 System_AutoAssignDist=0
 System_AutoAssignDist=EETN,90
 System_CMAC_NoContact_Distance_Info=3.0
