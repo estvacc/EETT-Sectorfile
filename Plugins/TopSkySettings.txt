@@ -12,9 +12,9 @@ Airspace_SIGMET_Areas=EETT,EFIN,ESAA,EVRR,ULLL
 AMAN_Airports=EFHK
 AMAN_URL=.\MAESTRO_sequence_data.json
 
-Areas_URL=https://dataset.vatsim.ee/TopSkyAreas.txt
 Areas_PreActiveTime=1200
 Areas_Remote_Activation=1
+Areas_URL=https://dataset.vatsim.ee/TopSkyAreas.txt
 
 Color_Active_Map_Type_3=201,167,209
 Color_Active_Map_Type_6=196,180,165
