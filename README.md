@@ -7,7 +7,7 @@ This repository contains non-automatically generated files from our sector file 
 - Plugins
 - Settings
 
-Bugs in the plugins themselves (TopSky, GRplugin and CDM) are handled externally on the [VATSIM Scandinavia Forum](https://forum.vatsim-scandinavia.org/t/plugins), or [CDM repository](https://github.com/rpuig2001/CDM)
+Bugs in the plugins are handled externally for [TopSky/GRplugin](https://forum.vatsim-scandinavia.org/t/plugins) or [CDM](https://github.com/rpuig2001/CDM).
 
 ## Contributing
 At the moment, contributions are restricted to authorized personnel.
