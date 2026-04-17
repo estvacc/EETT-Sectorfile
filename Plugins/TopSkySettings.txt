@@ -1,4 +1,4 @@
-Airspace_AOR_Airports=EE
+sAirspace_AOR_Airports=EE
 Airspace_AOR_Positions=EE
 Airspace_ASSR_AutoAssign_Type=2
 Airspace_ASSR_StartCode=6160
